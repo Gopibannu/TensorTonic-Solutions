@@ -1,0 +1,1 @@
+iin numpy we can use np.transpose(arr) to find the transpose
