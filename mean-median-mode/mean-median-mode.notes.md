@@ -1,0 +1,1 @@
+- the outliers effect the mean not the median
